@@ -10,6 +10,7 @@ const EventsPage = (props) => {
     let events;
 
     const RenderEvents = () => {
+        //if user is logged in then return all the events, else only return the public events
         if (isLoggedIn){
             events = eventsResponse;
             return events;
@@ -20,6 +21,7 @@ const EventsPage = (props) => {
         }
     }
 
+    //find the related events names and links
     const RelatedEvents = (ids) => {
         let relatedEventLinks = [];
         let relatedEventNames = [];

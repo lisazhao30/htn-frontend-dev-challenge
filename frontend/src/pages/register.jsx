@@ -27,6 +27,7 @@ const RegisterPage = (props) => {
                 password
             }
             await axios.post("http://localhost:8082/api/register", userInput);
+            //send user to events page once registered
             props.setIsLoggedIn(true);
             history("/events");
 

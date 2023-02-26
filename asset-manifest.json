@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/htn-frontend-dev-challenge/static/css/main.65a88c37.css",
+    "main.js": "/htn-frontend-dev-challenge/static/js/main.a05310ca.js",
+    "static/js/787.cda612ba.chunk.js": "/htn-frontend-dev-challenge/static/js/787.cda612ba.chunk.js",
+    "static/media/three-hackers.png": "/htn-frontend-dev-challenge/static/media/three-hackers.1da023e221a8b85fb574.png",
+    "index.html": "/htn-frontend-dev-challenge/index.html",
+    "main.65a88c37.css.map": "/htn-frontend-dev-challenge/static/css/main.65a88c37.css.map",
+    "main.a05310ca.js.map": "/htn-frontend-dev-challenge/static/js/main.a05310ca.js.map",
+    "787.cda612ba.chunk.js.map": "/htn-frontend-dev-challenge/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65a88c37.css",
+    "static/js/main.a05310ca.js"
+  ]
+}
